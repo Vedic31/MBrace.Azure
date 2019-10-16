@@ -37,6 +37,7 @@ using MBrace.Flow.CSharp;
 using MBrace.Library;
 using MBrace.Azure;
 using MBrace.Azure.Management;
+//hey, update to basic entries
 
 AzureWorker.LocalExecutable = "../../bin/mbrace.azureworker.exe";
 var pubSettings = "Replace with path to your local .publishsettings file";
